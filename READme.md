@@ -5,7 +5,7 @@ To get started with the project, follow these steps:
 1. Clone the repository:
 
 ```bash
-git clone <repository_url>
+git clone git@github.com:harshit2786/tunestream-ws.git<repository_url>
 cd project-directory
 ```
 
